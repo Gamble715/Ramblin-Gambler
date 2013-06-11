@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://Gamble715.github.io/Ramblin-Gambler/sitemap.xml 
